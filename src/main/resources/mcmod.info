@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SpiritCraft",
+  "name": "SpiritCraft",
+  "description": "Let the spirits of lives past help you",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrGamma195"],
+  "credits": "The Forge, FML guys, and Pahimar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

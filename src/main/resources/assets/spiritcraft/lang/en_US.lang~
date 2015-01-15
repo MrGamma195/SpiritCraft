@@ -1,0 +1,23 @@
+
+
+# Creative Tabs
+itemGroup.spiritcraft=SpiritCraft
+
+#Keys
+keys.SpiritCraft.category=SpiritCraft
+keys.SpiritCraft.charge=Charge
+keys.SpiritCraft.release=Release
+
+# Items
+item.spiritcraft:spiritShard.name=Spirit Shard Empty
+item.spiritcraft:spiritCrystal.name=Spirit Crystal
+item.spiritcraft:spiritShardG.name=Spirit Shard Primal Green
+item.spiritcraft:spiritShardB.name=Spirit Shard Primal Blue
+item.spiritcraft:spiritShardR.name=Spirit Shard Primal Red
+item.spiritcraft:spiritShardW.name=Spirit Shard Primal White
+
+#Blocks
+tile.spiritcraft:spiritStone.name=Spirit Stone
+
+#Tools
+item.soulPickAxe.name=Soul Pickaxe
